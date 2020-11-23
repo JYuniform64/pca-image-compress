@@ -1,0 +1,5 @@
+/image
+/view
+/__pycache__
+*.png
+*.pgm
